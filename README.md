@@ -1,7 +1,7 @@
 # iOS 17 Interactive Widgets on TestFlight
 
-- **Power Player Music Player** - [their TestFlight](https://testflight.apple.com/join/U5KJ4ejE)
-- **Tally** • **Quick Counter -** [their TestFlight](https://testflight.apple.com/join/zbUiqcxg)
+- **Power Player Music Player** - [TestFlight](https://testflight.apple.com/join/U5KJ4ejE)
+- **Tally** • **Quick Counter -** [TestFlight](https://testflight.apple.com/join/zbUiqcxg)
 
 ## How to Contribute
 
