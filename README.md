@@ -11,4 +11,4 @@
 
 ## How to Contribute
 
-If you're a developer with an app that supports iOS 17 interactive or standby widgets through TestFlight, feel free to make a pull request to add your app to the list.
+If you're a developer with an app that supports iOS 17 interactive or standby widgets through TestFlight, feel free to make a pull request to add your app to the list. Please include instructions on how to access the interactive widgets.
