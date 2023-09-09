@@ -5,6 +5,11 @@
 - **Timelines Time Tracking** - [TestFlight](https://testflight.apple.com/join/zxFgcULE)
 - **Power Player Music Player** - [TestFlight](https://testflight.apple.com/join/U5KJ4ejE)
 - **Tally** • **Quick Counter -** [TestFlight](https://testflight.apple.com/join/zbUiqcxg)
+
+# iOS 17 Standby Mode Widgets on TestFlight
+- **Emoji Countdown** - [TestFlight](https://testflight.apple.com/join/hRCujqsH)
+
+### Games!
 - **4InARow (Connect Four) Classic Widget Game** [TestFlight](https://testflight.apple.com/join/4nTWTtWo)
 - **Checkers Classic Widget Game** [TestFlight](https://testflight.apple.com/join/B4l1ZjY6)
 - **Chess Classic Widget Game** [TestFlight](https://testflight.apple.com/join/gDMN1uPf)
@@ -12,8 +17,6 @@
 - **Slide Puzzle Classic Widget Game** [TestFlight](https://testflight.apple.com/join/aMkFoGI7)
 - **TicTacToe Classic Widget Game** [TestFlight](https://testflight.apple.com/join/hqhKImdJ)
 
-# iOS 17 Standby Mode Widgets on TestFlight
-- **Emoji Countdown** - [TestFlight](https://testflight.apple.com/join/hRCujqsH)
 
 ## How to Contribute
 
