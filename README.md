@@ -5,6 +5,7 @@
 - **Timelines Time Tracking** - [TestFlight](https://testflight.apple.com/join/zxFgcULE)
 - **Power Player Music Player** - [TestFlight](https://testflight.apple.com/join/U5KJ4ejE)
 - **Tally** • **Quick Counter -** [TestFlight](https://testflight.apple.com/join/zbUiqcxg)
+- **LockFlow - Widget & App Launcher** - [TestFlight](https://testflight.apple.com/join/gmukNudH) 
 
 # iOS 17 Standby Mode Widgets on TestFlight
 - **Emoji Countdown** - [TestFlight](https://testflight.apple.com/join/hRCujqsH)
